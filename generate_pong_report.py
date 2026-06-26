@@ -455,7 +455,7 @@ def main():
     pdf.ln(8)
 
     # ==== 输出 ====
-    fname = f"{STUDENT_ID}_{STUDENT_NAME}_Pong改进实验报告.pdf"
+    fname = f"{STUDENT_ID}_{STUDENT_NAME}_Pong改进实验报告_v2.pdf"
     out = os.path.join(BASE_DIR, fname)
     pdf.output(out)
     kb = os.path.getsize(out)/1024
