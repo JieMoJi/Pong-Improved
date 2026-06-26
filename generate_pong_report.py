@@ -18,7 +18,7 @@ STUDENT_NAME   = "张轩基"
 STUDENT_ID     = "1030425213"
 STUDENT_CLASS  = "计科2502"
 SUBMIT_DATE    = "2026.6.26"
-GITHUB_URL     = "https://github.com/JieMoJi/Island-survival"
+GITHUB_URL     = "https://github.com/JieMoJi/Pong-Improved"
 TITLE_CN       = "Pong游戏改进 — 用函数重构并增加暂停/获胜/提示栏"
 
 def find_font():
